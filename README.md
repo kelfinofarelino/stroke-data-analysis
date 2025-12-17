@@ -1,10 +1,10 @@
 # 🏥 Stroke Analysis App
 
 <p align="container">
-  <img src="screenshot/Figure_1.png" alt="Pie Chart" width="250">
-  <img src="screenshot/Figure_2.png" alt="Heatmap" width="250">
-  <img src="screenshot/Figure_3.png" alt="Histogram & KDE" width="250">
-  <img src="screenshot/Figure_4.png" alt="Scatter" width="250">
+  <img src="screenshot/Figure_1.png" alt="Pie Chart" width="300">
+  <img src="screenshot/Figure_2.png" alt="Heatmap" width="300">
+  <img src="screenshot/Figure_3.png" alt="Histogram & KDE" width="300">
+  <img src="screenshot/Figure_4.png" alt="Scatter" width="300">
 </p>
 
 A CLI (Command Line Interface)-based data analysis application built using Python to analyze stroke patient datasets. This project includes data cleaning, statistical analysis, algorithmic search, and interactive data visualization.
